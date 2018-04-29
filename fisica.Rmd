@@ -1,0 +1,33 @@
+---
+title: "Física"
+output: html_notebook
+---
+
+#1. INTRODUÇÃO
+Esse relatório expõe os dados obtidos após os experimentos realizados pelo grupo e fazendo uma relação com os assuntos aprendidos em sala para nosso auxilio utilizamos o R, uma linguagem e também um ambiente de desenvolvimento integrado para cálculos estatísticos e gráficos. Os valores aqui exibidos obedecem ao sistema Internacional de Unidades (SI).
+
+##Parametros coletados nos Experimentos
+
+```{r}
+mru
+mru.distancias
+mru.carrinho
+```
+
+```{r}
+muv1
+muv1.distancias
+muv1.carrinho
+cat(muv1.altura.inicial, muv1.altura.final)
+```
+
+```{r}
+muv2
+muv2.distancias
+cat(muv2.altura.inicial, muv2.altura.final)
+```
+```{r}
+pendulo
+pendulo.h0
+```
+sdas
